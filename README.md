@@ -23,16 +23,13 @@
   <summary>Table of Contents</summary>
 
 > - [ Overview](#overview)
-> - [ Features](#features)
 > - [ Repository Structure](#repository-structure)
 > - [ Modules](#modules)
 > - [ Getting Started](#getting-started)
 >   - [ Installation](#installation)
 >   - [ Running ](#running)
-> - [ Project Roadmap](#project-roadmap)
 > - [ Contributing](#contributing)
 > - [ License](#license)
-> - [ Acknowledgments](#acknowledgments)
 </details>
 
 ---
@@ -43,12 +40,6 @@ Implementation of tictactoe game with Muzero bot
 
 ---
 
-##  Features
-
-- **1**: 1
-
----
-
 
 ##  Repository Structure
 
@@ -56,8 +47,8 @@ Implementation of tictactoe game with Muzero bot
 └── /
     ├── LICENSE
     ├── README.md
-    ├── tictactoe_with_muzero.ipynb
-    └── requirements.txt
+    ├── requirements.txt
+    └── tictactoe_with_muzero.ipynb
 
 ```
 
@@ -69,7 +60,7 @@ Implementation of tictactoe game with Muzero bot
 
 | File                                                                                                               | Summary                                                 |
 | ---                                                                                                                | ---                                                     |
-| [tictactoe_with_muzero.ipynb](https://github.com/Skyonya/tictactoe_muzero/blob/master/tictactoe_with_muzero.ipynb) | HTTP error 401 for prompt `tictactoe_with_muzero.ipynb` |
+| [tictactoe_with_muzero.ipynb](https://github.com/Skyonya/tictactoe_muzero/blob/master/tictactoe_with_muzero.ipynb) | Main Jupiter notebook script |
 
 </details>
 
@@ -105,14 +96,7 @@ pip install -r requirements.txt
 
 ###  Running
 
-1. Run tictactoe_with_muzero.ipynb:
-
----
-
-##  Project Roadmap
-
-- [X] `► 1`
-- [ ] `► 2`
+1. Run tictactoe_with_muzero.ipynb
 
 ---
 
@@ -158,10 +142,6 @@ Once your PR is reviewed and approved, it will be merged into the main branch.
 This project is protected under the [MIT](https://github.com/Skyonya/tictactoe_muzero/blob/main/LICENSE) License. For more details, refer to the [MIT](https://github.com/Skyonya/tictactoe_muzero/blob/main/LICENSE) file.
 
 ---
-
-##  Acknowledgments
-
-- 
 
 [**Return**](#quick-links)
 
