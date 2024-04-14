@@ -82,7 +82,6 @@ Implementation of tictactoe game with Muzero bot
 Ensure you have the following dependencies installed on your system:
 
 * **Python**: `version 3.10.6 or newer`
-* **JupyterNotebook**: `version 2024`
 
 ###  Installation
 
@@ -106,15 +105,7 @@ pip install -r requirements.txt
 
 ###  Running
 
-Use the following command to run tictactoe_muzero:
-
-1. Run jupyter notebook:
-
-```sh
-jupyter notebook
-```
-
-2. In jupyter notebook run tictactoe_with_muzero.ipynb
+1. Run tictactoe_with_muzero.ipynb:
 
 ---
 
